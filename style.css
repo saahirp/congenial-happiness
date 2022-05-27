@@ -1,0 +1,22 @@
+body{
+    background: palegreen;
+    color: royalblue;
+}
+
+#camera{
+    height: 377px;
+    width: 377px;
+    border: 3px;
+}
+
+.heading
+{
+    font-size: x-large;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    width: 100px;
+}
+
+.name_of_objects
+{
+    color: cadetblue;
+}
